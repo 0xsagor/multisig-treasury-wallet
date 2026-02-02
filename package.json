@@ -1,0 +1,10 @@
+{
+  "name": "multisig-treasury-wallet",
+  "version": "1.0.0",
+  "description": "Flat structure Multi-Sig wallet for crypto treasury",
+  "dependencies": {
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "ethers": "^6.1.0"
+  }
+}
